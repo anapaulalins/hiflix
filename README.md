@@ -60,12 +60,16 @@ $ cd prova-react-viitra
 ```
 $ yarn
 
+# or
+
 $ npm install
 ```
 
 - Run the application
 ```
 $ yarn start
+ 
+# or
 
 $ npx react-native start
 
