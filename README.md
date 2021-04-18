@@ -51,9 +51,9 @@ App consome a API da [The Movie Database (TMDB)] listando, pesquisando, detalhan
 
 - Clone Repository 
 ```
-$ git clone https://github.com/hiflix
+$ git clone https://github.com/anapaulalins/prova-react-viitra.git
 
-$ cd hiflix
+$ cd prova-react-viitra
 ```
 
 - Install the dependencies 
