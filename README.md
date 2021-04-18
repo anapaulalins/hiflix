@@ -44,7 +44,7 @@ App consome a API da [The Movie Database (TMDB)] listando, pesquisando, detalhan
 - [X] Pesquisar filme
 - [X] Favoritar filme
 - [X] Remover filme
-- [X] Detralhes do filme
+- [X] Detalhes do filme
 - [X] Listagem dos Favoritos
 
 ## 📱 Running App
