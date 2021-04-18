@@ -6,7 +6,7 @@
 </p>
 
 ## 💡 About
-App consome a API da [The Movie Database (TMDB)] listando, pesquisando, detalhando, favoritando e removendo os filmes.
+Aplicativo consumindo a API da [The Movie Database (TMDB)] listando, pesquisando, detalhando, favoritando e removendo os filmes.
 
 ## 🎨 Layout
 
